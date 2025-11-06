@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="750" viewBox="0 0 500 750">
+  <rect width="500" height="750" fill="#1A1A1A"/>
+  <text x="250" y="350" font-family="Arial" font-size="48" font-weight="bold" fill="#E50914" text-anchor="middle">
+    THE MATRIX
+  </text>
+  <text x="250" y="400" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle">
+    1999 • 8.7/10
+  </text>
+  <circle cx="250" cy="280" r="80" fill="#E50914" opacity="0.3"/>
+  <path d="M 250 230 L 280 260 L 250 290 L 220 260 Z" fill="#E50914"/>
+</svg>
